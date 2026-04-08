@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hugo Santos
 
-<!--
-**hugo-sants/hugo-sants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Computer Science Student | Junior Backend Developer`**
 
-Here are some ideas to get you started:
+I'm a **Computer Science student** [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) with a strong interest in **backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building scalable and maintainable systems using **Java**, **Spring Boot**, and relational databases like **PostgreSQL**. I also use **Docker** to improve development workflows and streamline deployment.
+
+I'm continuously improving my skills through academic and personal projects, especially in **APIs**, **database design**, and **clean architecture**.
+
+---
+
+### Languages and Technologies
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,clojure,python" width="700px"/>
+  </a>
+</p>
+
+---
