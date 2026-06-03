@@ -1,6 +1,6 @@
 ## Hugo Santos
 
-**`Computer Science Student | Junior Backend Developer`**
+**`Computer Science Student | Backend Developer`**
 
 I'm a **Computer Science student** [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) with a strong interest in **backend development**.
 
