@@ -1,12 +1,14 @@
 ## Hugo Santos
 
-**`Computer Science Student | Backend Developer`**
+**`Computer Science Student | Software Development`**
 
-I'm a **Computer Science student** [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/) with a strong interest in **backend development**.
+I'm a **Computer Science student** at [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/), with experience in **web and backend development**.
 
-I focus on building scalable and maintainable systems using **Java**, **Spring Boot**, and relational databases like **PostgreSQL**. I also use **Docker** to improve development workflows and streamline deployment.
+I have experience building **APIs and web applications** using **Java, Spring Boot, and Python**, as well as working with **relational databases**, component integration, and modular software development.
 
-I'm continuously improving my skills through academic and personal projects, especially in **APIs**, **database design**, and **clean architecture**.
+I also have knowledge of **JavaScript, HTML, and CSS** for frontend development, along with experience using **Docker, Docker Compose, and Nginx** for application configuration and deployment in production environments.
+
+I continue developing my skills through **academic and personal projects**, with a focus on **software development, APIs, system integration, databases, and web applications**.
 
 ---
 
@@ -14,7 +16,7 @@ I'm continuously improving my skills through academic and personal projects, esp
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,clojure,python" width="700px"/>
+    <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker,javascript,html,css," width="700px"/>
   </a>
 </p>
 
